@@ -1,2 +1,0 @@
-# demorss
-Demo RSS strapi
